@@ -1,4 +1,4 @@
-# Anna & David | Luxury Wedding Invitation
+# Movses & Anahit
 
 A premium, production-ready full-stack Next.js application designed as a luxury wedding invitation and intelligent RSVP manager. Features smooth Framer Motion animations, interactive countdown, masonry gallery, dynamic timetable, and secure server-action RSVP sync with Google Sheets.
 
