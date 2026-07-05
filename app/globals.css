@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+@theme {
+  --color-wedding-white: #FFFFFF;
+  --color-wedding-ivory: #FDFCF0;
+  --color-wedding-beige: #F9F7F2;
+  --color-wedding-champagne: #C5A059;
+  --color-wedding-gold: #C5A059;
+  --color-wedding-dark: #3D3D3D;
+  
+  --font-playfair: var(--font-playfair);
+  --font-cormorant: var(--font-cormorant);
+  --font-sans: var(--font-inter);
+}
+
+@layer utilities {
+  .glassmorphism {
+    @apply bg-white/40 backdrop-blur-sm border border-[#C5A059]/10 shadow-xl;
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "name": "Luxury Wedding Invite",
+  "description": "A premium luxury wedding invite website with Google Sheets integration for RSVPs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
